@@ -1,9 +1,11 @@
 ###JavaScript
 [How JavaScript Event Delegation Works](https://davidwalsh.name/event-delegate)
+
 https://github.com/getify/You-Dont-Know-JS
 
 ### ES6
 [JavaScript Promises 101](https://bitsofco.de/javascript-promises-101/)
+
 [ES6 in Depth](https://ponyfoo.com/articles/tagged/es6-in-depth)
 
 ### Frameworks & Libraries
