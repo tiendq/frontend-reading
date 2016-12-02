@@ -3,6 +3,8 @@
 
 https://github.com/getify/You-Dont-Know-JS
 
+[What is virtual DOM?](https://jbi.sh/what-is-virtual-dom/)
+
 ### ES6
 [Learn ES2015](https://babeljs.io/docs/learn-es2015/)
 
