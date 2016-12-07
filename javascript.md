@@ -5,6 +5,12 @@ https://github.com/getify/You-Dont-Know-JS
 
 [What is virtual DOM?](https://jbi.sh/what-is-virtual-dom/)
 
+[A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+
+[Introduction to Object-Oriented JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
+
+* [Why is it necessary to set the prototype constructor?](https://stackoverflow.com/questions/8453887/why-is-it-necessary-to-set-the-prototype-constructor)
+
 ### ES6
 [Learn ES2015](https://babeljs.io/docs/learn-es2015/)
 
