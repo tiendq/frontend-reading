@@ -18,5 +18,8 @@ https://github.com/getify/You-Dont-Know-JS
 
 [ES6 in Depth](https://ponyfoo.com/articles/tagged/es6-in-depth)
 
+### React
+[Controlled and uncontrolled form inputs in React don't have to be complicated](http://goshakkk.name/controlled-vs-uncontrolled-inputs-react/)
+
 ### Frameworks & Libraries
 [CommonJS: Why and How](https://0fps.net/2013/01/22/commonjs-why-and-how/)
