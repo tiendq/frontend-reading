@@ -11,6 +11,8 @@ https://github.com/getify/You-Dont-Know-JS
 
 * [Why is it necessary to set the prototype constructor?](https://stackoverflow.com/questions/8453887/why-is-it-necessary-to-set-the-prototype-constructor)
 
+* [Understanding "Prototypes" in JavaScript](http://yehudakatz.com/2011/08/12/understanding-prototypes-in-javascript/)
+
 ### ES6
 [Learn ES2015](https://babeljs.io/docs/learn-es2015/)
 
