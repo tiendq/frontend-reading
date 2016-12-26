@@ -13,6 +13,8 @@ https://github.com/getify/You-Dont-Know-JS
 
 * [Understanding "Prototypes" in JavaScript](http://yehudakatz.com/2011/08/12/understanding-prototypes-in-javascript/)
 
+[JavaScript Clean Coding Best Practices](https://blog.risingstack.com/javascript-clean-coding-best-practices-node-js-at-scale/)
+
 ### ES6
 [Learn ES2015](https://babeljs.io/docs/learn-es2015/)
 
