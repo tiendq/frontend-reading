@@ -15,6 +15,8 @@ https://github.com/getify/You-Dont-Know-JS
 
 [JavaScript Clean Coding Best Practices](https://blog.risingstack.com/javascript-clean-coding-best-practices-node-js-at-scale/)
 
+[Higher-Order Functions in JavaScript](https://www.sitepoint.com/higher-order-functions-javascript/)
+
 ### ES6
 [Learn ES2015](https://babeljs.io/docs/learn-es2015/)
 
