@@ -1,4 +1,6 @@
 ###JavaScript
+[Event order](http://www.quirksmode.org/js/events_order.html)
+
 [How JavaScript Event Delegation Works](https://davidwalsh.name/event-delegate)
 
 https://github.com/getify/You-Dont-Know-JS
