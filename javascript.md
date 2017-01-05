@@ -31,5 +31,7 @@ https://github.com/getify/You-Dont-Know-JS
 ### React
 [Controlled and uncontrolled form inputs in React don't have to be complicated](http://goshakkk.name/controlled-vs-uncontrolled-inputs-react/)
 
+[Should you store your form state in Redux?](https://goshakkk.name/should-i-put-form-state-into-redux/)
+
 ### Frameworks & Libraries
 [CommonJS: Why and How](https://0fps.net/2013/01/22/commonjs-why-and-how/)
