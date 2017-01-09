@@ -29,6 +29,8 @@ https://github.com/getify/You-Dont-Know-JS
 [ES6 in Depth](https://ponyfoo.com/articles/tagged/es6-in-depth)
 
 ### React
+[13 things you need to know about React](http://aimforsimplicity.com/post/13-things-you-need-to-know-about-react/)
+
 [Controlled and uncontrolled form inputs in React don't have to be complicated](http://goshakkk.name/controlled-vs-uncontrolled-inputs-react/)
 
 [Should you store your form state in Redux?](https://goshakkk.name/should-i-put-form-state-into-redux/)
