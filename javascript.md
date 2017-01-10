@@ -37,5 +37,9 @@ https://github.com/getify/You-Dont-Know-JS
 
 [10 Tips for Better Redux Architecture](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44#.x0m3pakwk)
 
+[Practical Redux Series](http://blog.isquaredsoftware.com/series/practical-redux/)
+
+[Idiomatic Redux Series](http://blog.isquaredsoftware.com/series/idiomatic-redux)
+
 ### Frameworks & Libraries
 [CommonJS: Why and How](https://0fps.net/2013/01/22/commonjs-why-and-how/)
