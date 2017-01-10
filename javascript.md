@@ -35,5 +35,7 @@ https://github.com/getify/You-Dont-Know-JS
 
 [Should you store your form state in Redux?](https://goshakkk.name/should-i-put-form-state-into-redux/)
 
+[10 Tips for Better Redux Architecture](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44#.x0m3pakwk)
+
 ### Frameworks & Libraries
 [CommonJS: Why and How](https://0fps.net/2013/01/22/commonjs-why-and-how/)
