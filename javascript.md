@@ -31,6 +31,8 @@ https://github.com/getify/You-Dont-Know-JS
 ### React
 [13 things you need to know about React](http://aimforsimplicity.com/post/13-things-you-need-to-know-about-react/)
 
+[React.js Best Practices for 2016](https://blog.risingstack.com/react-js-best-practices-for-2016/)
+
 [Controlled and uncontrolled form inputs in React don't have to be complicated](http://goshakkk.name/controlled-vs-uncontrolled-inputs-react/)
 
 [Should you store your form state in Redux?](https://goshakkk.name/should-i-put-form-state-into-redux/)
