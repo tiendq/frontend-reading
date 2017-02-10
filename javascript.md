@@ -35,6 +35,8 @@ https://github.com/getify/You-Dont-Know-JS
 
 [Controlled and uncontrolled form inputs in React don't have to be complicated](http://goshakkk.name/controlled-vs-uncontrolled-inputs-react/)
 
+[Dive into React codebase: Handling state changes](http://reactkungfu.com/2016/03/dive-into-react-codebase-handling-state-changes/)
+
 [Should you store your form state in Redux?](https://goshakkk.name/should-i-put-form-state-into-redux/)
 
 [10 Tips for Better Redux Architecture](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44#.x0m3pakwk)
