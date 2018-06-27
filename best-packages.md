@@ -22,7 +22,9 @@
 
 [dayjs](https://github.com/iamkun/dayjs) Day.js 2KB immutable date library alternative to Moment.js with the same modern API.
 
-dotenv
+[dotenv](https://github.com/motdotla/dotenv) Loads environment variables from .env for nodejs projects.
+
+[list](https://github.com/funkia/list) An immutable list with unmatched performance and a comprehensive functional API.
 
 [ms](https://github.com/zeit/ms) Tiny milisecond conversion utility
 
