@@ -10,6 +10,8 @@
 
 [jest](https://github.com/facebook/jest) Delightful JavaScript Testing.
 
+[memoize-one](https://github.com/alexreardon/memoize-one) A memoization library that only caches the result of the most recent arguments.
+
 [nodemon](https://www.npmjs.com/package/nodemon) Simple monitor script for use during development of a Node.JS app.
 
 [react-testing-library](https://github.com/kentcdodds/react-testing-library) Simple and complete React DOM testing utilities that encourage good testing practices.
