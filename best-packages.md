@@ -33,3 +33,4 @@
 ## Tools and CLIs
 
 [caniuse-cmd](https://www.npmjs.com/package/caniuse-cmd) caniuse for the command line.
+* [Oh My Zsh](http://ohmyz.sh/) - An open source, community-driven framework for managing your Zsh configuration.
