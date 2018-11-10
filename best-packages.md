@@ -34,3 +34,4 @@
 
 [caniuse-cmd](https://www.npmjs.com/package/caniuse-cmd) caniuse for the command line.
 * [Oh My Zsh](http://ohmyz.sh/) - An open source, community-driven framework for managing your Zsh configuration.
+* [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
